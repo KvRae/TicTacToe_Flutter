@@ -1,6 +1,6 @@
 # tic_tac_toe
 
-A new Flutter project.
+Classic Tic Tac Toe game using flutter.
 
 ## Getting Started
 
